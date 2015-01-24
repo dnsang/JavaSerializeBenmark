@@ -1,2 +1,7 @@
-# Benmark
- to benchmark compare between libs
+# JavaSerializeBenmark 
+
++ Simple way to test how fast they do serialize/deserialize in Java.
++ Currently will benmark for:
++  Thrift
++  Kryo
+
